@@ -1,4 +1,4 @@
-# Face_Mask_Detector
+# Face Mask Detection
 
 ## USAGE OF FACE MASK DETECTION
 1) The Face Mask Detection System can be used at airports to detect travelers without masks.
