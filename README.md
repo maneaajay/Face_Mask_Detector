@@ -6,4 +6,4 @@
 3) The Face Mask Detection System can be used at office premises to detect if employees are maintaining safety standards at work. 
 
 ## Live Face Mask Detection
-![alt text](https://github.com/venugopalkadamba/Face_Mask_Detector/blob/master/Live_Image.png)
+![alt text](https://github.com/venugopalkadamba/Face_Mask_Detector/blob/master/Live_Video.mp4)
